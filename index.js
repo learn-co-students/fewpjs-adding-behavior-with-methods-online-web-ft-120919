@@ -10,6 +10,7 @@ class Cat {
   }
 }
 
+
 class Dog {
   constructor(name, gender) {
     this.name = name
@@ -20,6 +21,7 @@ class Dog {
     return `${this.name} says woof!`
   }
 }
+
 
 class Bird {
   constructor(name, gender) {
